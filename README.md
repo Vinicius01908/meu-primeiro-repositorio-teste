@@ -1,2 +1,2 @@
 # meu-primeiro-repositorio-teste
-Exemplo criado em: ipea.gov.br
+Exemplo criado em: http://www.ipea.gov.br
